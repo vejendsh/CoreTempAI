@@ -1,0 +1,20 @@
+# Weights & Biases
+wandb/
+
+# Virtual environments
+.venv/
+venv/
+**/node_modules/
+node_modules/
+
+# IDE-specific files
+.idea/
+
+# Python-specific
+__pycache__/
+
+# data
+data/
+
+# trained models
+models/ 

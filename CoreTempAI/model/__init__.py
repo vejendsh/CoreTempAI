@@ -1,0 +1,3 @@
+"""
+Model implementations for CoreTempAI.
+""" 
