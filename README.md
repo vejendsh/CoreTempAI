@@ -64,7 +64,7 @@ CoreTempAI/
 
 ## Usage
 
-For detailed usage instructions and examples, please refer to the documentation in the `CoreTempAI` directory.
+For detailed usage instructions and examples, please refer to the README.md in the `CoreTempAI-src` directory.
 
 
 ## Development
