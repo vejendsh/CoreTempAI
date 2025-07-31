@@ -1,10 +1,10 @@
 # CoreTempAI Project
 
-A physics-based machine learning framework for predicting core body temperature using advanced neural architectures and computational fluid dynamics (CFD) data.
+A machine learning framework for predicting real-time core body temperature using advanced neural architectures and computational fluid dynamics (CFD) data.
 
 ## Overview
 
-CoreTempAI combines state-of-the-art machine learning techniques with physics-based simulations (CFD) to provide accurate predictions of core body temperature. The project leverages both traditional neural networks and advanced transformer-based architectures (neural operators) to process various input parameters including both scalar values and temporal profiles.
+CoreTempAI combines state-of-the-art machine learning techniques with physics simulations (CFD) to provide accurate predictions of real-time core body temperature. The project leverages both traditional neural networks and advanced transformer-based architectures (neural operators) to process various input parameters including both scalar values (Age, weight, height, etc.) and temporal profiles (heart rate, skin temperature, etc.).
 
 ## Project Structure
 
