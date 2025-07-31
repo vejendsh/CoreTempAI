@@ -1,4 +1,4 @@
-# CoreTempAI Project
+# Real_Time_CBT_pred
 
 A machine learning framework for predicting real-time core body temperature using advanced neural architectures and computational fluid dynamics (CFD) data.
 
